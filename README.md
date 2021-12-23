@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafael Viana, desevolvedor de sistemas trabalho com mobile e web! 
+### Oiii eu sou a Rafael Viana, desevolvedor de sistemas trabalho com mobile e web! 
 👨‍💼 Hoje trabalho com Full-Stack.</br>
 📱 Estudando Flutter</br>
 🌍 Estudando Laravel</br>
@@ -24,7 +24,9 @@
    <img align="center" alt="Rafa-Js" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" alt="Rafa-Js" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-##
+
+  ##
+  
 <div> 
   <a href = "mailto:rafaelviana1063@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-viana-b31113150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
